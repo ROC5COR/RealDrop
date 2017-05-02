@@ -1,6 +1,6 @@
 # README RealDrop #
 
-This application aims to create an Apple's AirDrop like multi-platform mechanism over a local network
+This application aims at creating an Apple's AirDrop like multi-platform mechanism over a local network
 
 
 ### Dev Repo ###
